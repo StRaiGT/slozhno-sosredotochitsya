@@ -1,10 +1,15 @@
 .page.theme_dark {
   --bg-color: #000028;
-  --image: url(../images/cover-image-dark.png);
+  --bg-image: url(../images/cover-image-dark.png);
 
   --accent-color: #ff0070;
   --main-title-color: #db00ff;
   --decor-color: #ff0070;
+  --hover-decor-color: #ff007066;
   --title-color: #000028;
   --text-color: #f1b2ce;
+}
+
+.theme_dark .header__decoration {
+  display: block;
 }
