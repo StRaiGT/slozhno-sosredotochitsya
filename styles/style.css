@@ -208,13 +208,11 @@
   display: grid;
   justify-content: center;
   align-items: center;
-  padding: 10px;
   block-size: 100vh;
   min-block-size: 668px;
 }
 
 .footer__title {
-  padding: 10px;
   color: var(--main-title-color);
   font-family: var(--font);
   font-weight: 700;
@@ -307,10 +305,6 @@
 
   .gallery__image:nth-child(5) {
     grid-area: street;
-  }
-
-  .footer__title {
-    gap: 20px;
   }
 
   .footer__title {
