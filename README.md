@@ -1,6 +1,6 @@
 # slozhno-sosredotochitsya
 
-https://github.com/StRaiGT/slozhno-sosredotochitsya.git
+https://github.com/StRaiGT/slozhno-sosredotochitsya
 
 ### Описание
 3.2 Адаптивная верстка веб-страницы по макету с использованием переменных и состояний. 
