@@ -1,5 +1,5 @@
 :root {
-  --font: "IBM Plex Mono", monospace;
+  --font: "IBM Plex Mono";
   --main-title-size-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --main-title-size-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --text-size: 18px;
